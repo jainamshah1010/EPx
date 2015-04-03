@@ -1,0 +1,2 @@
+C:/Users/Jainam/workspace/EPx/build/release/CMakeFiles/CopyIDD.dir
+C:/Users/Jainam/workspace/EPx/build/release/CMakeFiles/EnergyPlus/EnergyPlus.dir

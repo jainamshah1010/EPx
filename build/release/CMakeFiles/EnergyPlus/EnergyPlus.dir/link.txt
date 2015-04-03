@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\EnergyPlus\EnergyPlus.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\EnergyPlus\EnergyPlus.dir/objects.a @CMakeFiles\EnergyPlus\EnergyPlus.dir\objects1.rsp
+C:\TDM-GCC-64\bin\gfortran.exe  -O -cpp -ffree-line-length-none -fimplicit-none -static-libgcc -static-libstdc++ -static-libgfortran   -Wl,--whole-archive CMakeFiles\EnergyPlus\EnergyPlus.dir/objects.a -Wl,--no-whole-archive  -o EnergyPlus\EnergyPlus.exe -Wl,--out-implib,libEnergyPlus\EnergyPlus.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
